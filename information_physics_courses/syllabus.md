@@ -2,62 +2,62 @@
 
 ## Contain
 - Statistics
- - Events
- - Probability
- - Observation
- - Estimation
+  - Events
+  - Probability
+  - Observation
+  - Estimation
 - Statistical Physics
- - Statistical ensemble
- - Single particle system
- - Statistical equilibrium
- - Entropy
+  - Statistical ensemble
+  - Single particle system
+  - Statistical equilibrium
+  - Entropy
 - Binary System
- - Multiplicity function g(N, s) = N! / ((N/2 + s)! * (N/2 - s)!), where "!" denotes factorial
- - Energy of each state e0, e1
- - Total energy E= n0 * e0 + n1 * e1
- - Denote n is the number of ‘particles’
- - V is the configuration/ order of n particles
- - U is the energy of system
- - Information contact => energy exchange, but n doesn’t change, V doesn’t change.
- - T is energy per particle. 
- - G(U, n, V) = G(U1, n1, V1) * G(U-U1, n2, V2)
- - Define T. When information contact is equalibrium, dG(U, n, V)/dU = 0 
+  - Multiplicity function g(N, s) = N! / ((N/2 + s)! * (N/2 - s)!), where "!" denotes factorial
+  - Energy of each state e0, e1
+  - Total energy E= n0 * e0 + n1 * e1
+  - Denote n is the number of ‘particles’
+  - V is the configuration/ order of n particles
+  - U is the energy of the system
+  - Information contact => energy exchange, but n doesn’t change, V doesn’t change.
+  - T is energy per particle. 
+  - G(U, n, V) = G(U1, n1, V1) * G(U-U1, n2, V2)
+  - Define T. When information contact is equilibrium, dG(U, n, V)/dU = 0 
 - Linear System and Dynamics
- - Linear Algebra
- - Linear System
- - Linear System Dynamics
-   - Statbility
+  - Linear Algebra
+  - Linear System
+  - Linear System Dynamics
+    - Stability
 - Non-linear System
- - Non-linear Algebra
- - Non-linear System
- - Non-linear System Dynamics
-   - Stabilty 
+  - Non-linear Algebra
+  - Non-linear System
+  - Non-linear System Dynamics
+    - Stability 
 - Information Theory
- - Ideal Gas
- - Information entropy
-   - Shannon Entropy
-   - Limitation of Shannon entropy
-   - Numerical variable
-   - Group of random variable entropy
-   - Structured random variable entropy
- - Define ‘temperature’ in informational physics
-   - T = F(entropy)
-   - Energy = kT
-   - Spatial information
-   - Spatial structure entropy
-   - Spatial uncertainty
-     - Pattern is fix but contain is variable (image)
-     - Pattern is variable but contain is fix (language)
- - Temporal information
-   - Information vanish by time
-   - Time uncertainty
+   - Ideal Gas
+   - Information entropy
+     - Shannon Entropy
+     - Limitation of Shannon entropy
+     - Numerical variable
+     - Group of random variable entropy
+     - Structured random variable entropy
+  - Define ‘temperature’ in informational physics
+    - T = F(entropy)
+    - Energy = kT
+    - Spatial information
+    - Spatial structure entropy
+    - Spatial uncertainty
+      - Pattern is fix but contain is variable (image)
+      - Pattern is variable but contain is fix (language)
+  - Temporal information
+    - Information vanish by time
+    - Time uncertainty
 - Information Transformation and Transport
- - Encoding and decoding
- - mv = pt (‘thermal’ flow)
-   - m is information
-   - v is transport speed
-   - p is pending on define
-   - t is time
+  - Encoding and decoding
+  - mv = pt (‘thermal’ flow)
+    - m is information
+    - v is transport speed
+    - p is pending on define
+    - t is time
 - Information Dynamics
 
 
